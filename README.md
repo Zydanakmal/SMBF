@@ -11,8 +11,7 @@
 
 
 # RESULTS
-
-[![Screenshot-20220614-193037-Termux-01.png](https://i.postimg.cc/wjG4Hqdf/Screenshot-20220614-193037-Termux-01.png)](https://postimg.cc/Bj2BBGbH)
+<a href="https://ibb.co/51cRBC6"><img src="https://i.ibb.co/7Sy12BX/Grid-Art-20220617-144426276.png" alt="Grid-Art-20220617-144426276" border="0"></a>
 
 # RESULTS
 
